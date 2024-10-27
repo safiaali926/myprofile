@@ -30,7 +30,7 @@ export default function About() {
   <TabsContent value="course">
   <h1 className="text-cyan-300 text-xl">Artificial Intelligence, Web 3.0 & Metaverse - ongoing</h1>
   <p className="text-md text-white">Governor House Karachi</p>
-  <p className="text-md text-white mb-4 italic">-Governor Sindh Kamran Khan Tessori's Free Course</p>
+  <p className="text-md text-white mb-4 italic">-Governor Sindh Kamran Khan Tessori&apos;s Free Course</p>
 
   <h1 className="text-cyan-300 text-xl">Digital Marketing & SEO - 2022</h1>
   <p className="text-md text-white">Vocational Training Institue for Women</p>

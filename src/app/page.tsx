@@ -19,8 +19,8 @@ export default function Home() {
               And I'm a <span className="text-cyan-300">frontend Developer</span>
             </h2>
             <p className="text-white text-md py-2 max-w-lg mx-auto md:mx-0 opacity-80">
-              I'm a student in the GIAIC Batch 1, Quarter 2, with strong skills in HTML, CSS, JavaScript, TypeScript, Tailwind, and more.
-              I'm actively seeking an internship to apply and expand my knowledge in real-world projects!
+              I&apos;m a student in the GIAIC Batch 1, Quarter 2, with strong skills in HTML, CSS, JavaScript, TypeScript, Tailwind, and more.
+              I&apos;m actively seeking an internship to apply and expand my knowledge in real-world projects!
             </p>
           </div>
         </div>
@@ -34,7 +34,7 @@ export default function Home() {
             <p className="text-white text-sm mt-3 opacity-80">
               With over 20+ website templates designed, I offer customized, high-quality web solutions that blend style and functionality.
             </p>
-            <button className="bg-cyan-300 px-4 py-1 mt-4 rounded-lg">Hire Me</button>
+            <button className="bg-cyan-300 px-4 py-1 mt-4 hover:bg-cyan-500 rounded-lg">Hire Me</button>
           </div>
 
           {/* Web Development Box */}
@@ -44,7 +44,7 @@ export default function Home() {
             <p className="text-white text-sm mt-3 opacity-80">
               With experience in 45+ web development projects, I offer tailored programming solutions ensuring high performance and functionality.
             </p>
-            <button className="bg-cyan-300 px-4 py-1 mt-4 rounded-lg">Hire Me</button>
+            <button className="bg-cyan-300 px-4 py-1 mt-4 hover:bg-cyan-500 rounded-lg">Hire Me</button>
           </div>
 
           {/* Graphic Design Box */}
@@ -54,7 +54,7 @@ export default function Home() {
             <p className="text-white text-sm mt-3 opacity-80">
               With 30+ successful projects, I provide custom graphic design services that bring your brand to life with creativity and impact.
             </p>
-            <button className="bg-cyan-300 px-4 py-1 mt-4 rounded-lg">Hire Me</button>
+            <button className="bg-cyan-300 px-4 py-1 mt-4 hover:bg-cyan-500 rounded-lg">Hire Me</button>
           </div>
         </div>
       </div>
